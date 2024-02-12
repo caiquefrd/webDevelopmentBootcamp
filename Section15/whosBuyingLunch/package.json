@@ -1,0 +1,12 @@
+{
+  "name": "whos-buying-lunch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
